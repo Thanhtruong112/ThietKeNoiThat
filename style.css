@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     background-color: #FFF8F0;
@@ -33,4 +34,18 @@ footer {
     color: #FFF8F0;
     text-decoration: none;
     margin: 0 10px;
+=======
+* {
+    box-sizing:border-box;
+
+}
+.container {
+    margin: auto;
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+>>>>>>> 3b1d9a34c3e0750e8db856af00db2705f035df9c
 }
