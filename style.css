@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF8F0;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    height: 161px;
+    top: 2500px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;   
+
+}
+footer {
+    background-color: #FFF8F0;
+    color: #0f0202;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.footer-links {
+    margin-bottom: 10px;
+}
+.footer-links a {
+    color: #FFF8F0;
+    text-decoration: none;
+    margin: 0 10px;
+}
